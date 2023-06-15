@@ -111,3 +111,4 @@ portfolio                          |  linkedin           | Instagram
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://bishalde.vercel.app) | [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bishalde/) |[![instagram](https://img.shields.io/badge/instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/bishal_de/)
 
 ## Give A Bow
+<a href="https://www.buymeacoffee.com/bishalde" target='_blank'><img height="60px" width="200px" src="https://img.shields.io/badge/buymeacoffee-yellow?style=for-the-badge&logo=buymeacoffee&logocolor=white" /></a>&nbsp;<a href="https://ko-fi.com/bishalde" target='_blank'><img height="60px" width="150px" src="https://img.shields.io/badge/kofi-red?style=for-the-badge&logo=kofi"/></a>
